@@ -1,5 +1,5 @@
 const musician = ["John Lennon"];
-const instruments = ["guitar"];
+const instruments = ["Guitar"];
 
 
 
