@@ -7,6 +7,6 @@ function theBeatlesPlay(musician,instruments) {
   let emptyArray = [];
   
   for(let i=0; i<musician.length; i++) {
-    emptyArray = musician[i] + instruments[i];
+    emptyArray.push(musician[i] + instruments[i]);
   }
 }
