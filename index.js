@@ -1,1 +1,1 @@
-var musician = 
+var musician = ["John "]
